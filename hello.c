@@ -8,5 +8,6 @@
 \f0\fs36 \cf0 #include<stdio.h>\
 void main()\
 \{\
- printf("Helloworld!\\n");\
+ printf("Helloworld!\\n");
+ printf("This must be a monolithic design\n");\
 \}}
